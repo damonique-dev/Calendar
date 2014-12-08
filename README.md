@@ -1,10 +1,6 @@
 Calendar
 ========
-README for Lab2
-
-Author: Damonique Thomas
-CSE 4252
-Fall 2014
+Using C++
 
 This program outputs a calender according to the users input of the year, month and NYD, and continues to ask the user for new information until the user decides to quit.
 
